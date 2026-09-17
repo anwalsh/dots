@@ -196,7 +196,6 @@
                 },
                 "completeUnimported": true,
                 "staticcheck": true,
-                "ui.semanticTokens": true
             },
         },
         "vtsls": {

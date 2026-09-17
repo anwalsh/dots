@@ -1,0 +1,6 @@
+- name: "Thaw | MacOSX | Install Thaw"
+  community.general.homebrew:
+    name: "{{ item }}"
+    state: present
+  loop:
+    - thaw

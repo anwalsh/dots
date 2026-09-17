@@ -4,7 +4,6 @@ default_roles:
   - alfred
   - alt-tab
   - ant
-  - bartender
   - bat
   - chrome
   - claude
@@ -69,6 +68,7 @@ default_roles:
   - starship
   - system
   - terraform
+  - thaw
   - tldr
   - tmux
   - tooling
