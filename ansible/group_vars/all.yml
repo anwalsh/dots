@@ -8,7 +8,7 @@ default_roles:
   - chrome
   - claude
   - cleanshot
-  - cmux
+  # - cmux
   - compass
   - container
   - discord
@@ -16,7 +16,7 @@ default_roles:
   - docker
   - fantastical
   - finder
-  - firefox
+  # - firefox
   - fish
   - fonts
   - fzf
@@ -31,7 +31,7 @@ default_roles:
   - input
   - istats
   - iterm2
-  #   - java
+  # - java
   - jetbrains
   - just
   - k8s
@@ -48,8 +48,8 @@ default_roles:
   - nim
   - nushell
   - nvim
-  #   - npm
-  #   - nvm
+  # - npm
+  # - nvm
   - obsidian
   - opencode
   - podman
@@ -64,7 +64,7 @@ default_roles:
   - sound
   - soulver
   - spotify
-  #   - ssh
+  # - ssh
   - starship
   - system
   - terraform
