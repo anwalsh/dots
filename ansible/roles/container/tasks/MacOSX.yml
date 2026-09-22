@@ -1,5 +1,5 @@
 - name: "Container | MacOSX | Install Container"
-  community.general.homebrew_cask:
+  community.general.homebrew:
     name: container
     state: present
   when:
